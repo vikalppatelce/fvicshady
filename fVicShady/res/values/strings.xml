@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">fVicShady</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="login">login</string>
+    <string name="username_email">username | Email</string>
+    <string name="pas_">pas****</string>
+    <string name="post">post</string>
+
+</resources>
